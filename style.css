@@ -32,7 +32,7 @@ body{
     height: 14px;
     width: 14px;
     background-color: #fce2c4;
-    border-left:5px solid #ffa945;
+    border-left:4px solid #ffa945;
     border-bottom:5px solid #ffa945;
     border-bottom-left-radius: 10px;
     transform: skew(-40deg);
